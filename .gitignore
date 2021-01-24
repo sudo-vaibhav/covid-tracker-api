@@ -1,3 +1,4 @@
 /.deployment
 /.env
 /.vscode
+node_modules
